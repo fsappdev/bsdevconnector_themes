@@ -5,6 +5,6 @@
 
 # 2° bsSnippetsCode
 # Esta 2da parte contiene codigo generado con snippets de Bootstrap.
-[github](https://github.com/fsappdev/bsdevconnector_themes/tree/main/bsSnippetsCode "acceso a la carpeta")
+[bsnippets](https://github.com/fsappdev/bsdevconnector_themes/tree/main/bsSnippetsCode "acceso a la carpeta")
 
 
